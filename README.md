@@ -21,6 +21,7 @@ Little to no semantic tags, no comments.
 Changes made throughout, with both the HTML and CSS code cleaned up. 
 
 _Snapshot of semantic tags added provided:_
+
 ![](Develop/assets/images/AddedCode.JPG)
 
 ##### Built with Visual Studio Code
