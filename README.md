@@ -3,6 +3,7 @@
 ## Contents
 - HTML and CSS source files provided
 - Stock images under creative commons license
+- Screenshots of changes
 
 ## User Story
 
