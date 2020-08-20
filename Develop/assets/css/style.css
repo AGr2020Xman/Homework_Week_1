@@ -20,6 +20,27 @@ body {
     font-size: 48px;
 }
 
+/* nav bar specifications in header */
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+/* Removes list-style-type, however display: inline-block overrides this. Leaving it in for cross-browser compatability */
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
 /* Colour variation to emphasise 'seo' in company name */
 
 #seo {
@@ -35,25 +56,6 @@ body {
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-/* nav bar specifications in header */
-
-.header nav {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
-
-.header nav ul {
-    list-style-type: none;
-}
-
-.header nav ul li {
-    display: inline-block;
-    margin-left: 25px;
 }
 
 /* Ensuring links aren't variable in colour - could in future add state changes */
